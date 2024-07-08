@@ -1,7 +1,5 @@
 # World Layoff Data Cleaning
 
-# SQL Data Cleaning Project
-
 This repository contains a project focused on cleaning and preprocessing a dataset of company layoffs using SQL. The dataset includes various details about layoffs across different companies, industries, and locations.
 
 ## Table of Contents
